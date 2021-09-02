@@ -1,0 +1,15 @@
+{
+  "name": "test-create-package-7/test-project",
+  "type": "project",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "and",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
